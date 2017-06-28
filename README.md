@@ -16,4 +16,5 @@
 > 3.`git add --all`
 > 4.`git commit -m '.DS_Store banished!'`
 
-[原文链接]: http://www.jianshu.com/p/fdaa8be7f6c3
+[原文链接]: (http://www.jianshu.com/p/fdaa8be7f6c3)
+
